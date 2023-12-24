@@ -39,16 +39,16 @@ Manage your todos efficiently with this simple ToDo application built with React
    ```
 
 ### Features in Detail
-- Adding a Todo
+#### Adding a Todo
 - Type your new todo in the input field.
 - Click the "Add" button.
-- Editing a Todo
+#### Editing a Todo
 - Click the pencil icon next to the todo.
 - Edit the todo text in the input field.
 - Click the checkmark icon to save the changes.
-- Marking a Todo as Completed
+#### Marking a Todo as Completed
 - Click the checkbox next to the todo.
-- Deleting a Todo
+#### Deleting a Todo
 - Click the "X" button next to the todo.
 ### Local Storage
   Todos are saved to local storage, allowing persistence between browser sessions.
